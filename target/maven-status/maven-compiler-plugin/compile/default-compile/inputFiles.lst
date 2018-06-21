@@ -1,0 +1,12 @@
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/breaker/Part.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/utils/Strings.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/breaker/NumberComponent.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/reducer/DictionaryBasedNumberReducer.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/dictionary/british/BritishEnglishNumberDictionary.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/breaker/NumberBreaker.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/dictionary/NumberDictionary.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/dictionary/SentenceCreator.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/dictionary/british/BritishEnglishSentenceCreator.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/reducer/NumberReducer.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/NumberToTextMain.java
+/Users/Admin/git/numbers-to-text-master/src/main/java/com/abhinag/numbertoword/DictionaryNumberConverter.java
